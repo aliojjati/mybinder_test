@@ -5,3 +5,13 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - flask
+  - dash
+  - keras
+  - pyspark
+  - scikit-learn
+  - scipy
+  - seaborn
+  - sqlite
+  - tensorflow
+  - nltk
