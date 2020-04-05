@@ -15,6 +15,3 @@ dependencies:
   - sqlite
   - tensorflow
   - IPython
-  - turtle
-  - freegames
-  - PIL
